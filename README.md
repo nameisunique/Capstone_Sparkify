@@ -44,11 +44,11 @@ This project will use data provided by Udacity as the basis for the examination 
 
 I'm using the following libraries and of note will be the addition of the Pyspark libraries:
 
-from pyspark.ml.feature: Getting the features engineering functions
-from pyspark.sql: For using SQL functionality in Pyspark
-from pyspark.ml.tuning: Used to create the inputs to the pipelines used by the ML models
-from pyspark.ml: The Pyspark pipeline functionality
-from pyspark.ml.classification: The Pyspark classification models I used
-from pyspark.ml.evaluation: Once the model runs, use these functions to pull out and view the results and metrics
+* from pyspark.ml.feature: Getting the features engineering functions
+* from pyspark.sql: For using SQL functionality in Pyspark
+* from pyspark.ml.tuning: Used to create the inputs to the pipelines used by the ML models
+* from pyspark.ml: The Pyspark pipeline functionality
+* from pyspark.ml.classification: The Pyspark classification models I used
+* from pyspark.ml.evaluation: Once the model runs, use these functions to pull out and view the results and metrics
 
 ![libs](https://user-images.githubusercontent.com/65500578/88697962-08097f00-d0cb-11ea-9c0c-ed80ebf589ca.jpg)
