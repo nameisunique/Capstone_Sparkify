@@ -1,5 +1,7 @@
 # Sparkify
 
+![clash](https://user-images.githubusercontent.com/65500578/88697644-86195600-d0ca-11ea-93b5-896d8c3a38e5.jpg)
+
 This is my Capstone project for my Udacity Data Scientist course.
 
 My Blog Post on Blogger.com can be found here: https://nameisunique.blogspot.com/2020/07/should-i-stay-or-should-i-go.html
