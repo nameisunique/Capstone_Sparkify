@@ -34,6 +34,11 @@ This project digs deep into Big Data, Pyspark, Python combined with SQL, along w
 
 The goal of this project centers around one main question: Who will churn? Sparkify wants to keep both it's paid and free customers, and those that leave are considered to have "churned". Machine Language models come to the rescue to help identify users most likely to churn.
 
+# Technical Analysis
+
+I've used a variety of Python and Pyspark functions to Wrangle the data and the the Exploratory Data Analysis. I've also used a collection of matplotlib and seaborn visualization functions. For example, looking at churn and gender, I produced this type of visual...it's compact, easy to read and understand at a glance, and very quick and easy to implement in my code:
+
+
 This project will use data provided by Udacity as the basis for the examination per the rubric. I've used Python 3.7 and Pyspark 2.4.3 and created the notebook using Jupyter.
 
 I'm using the following libraries and of note will be the addition of the Pyspark libraries:
