@@ -4,7 +4,7 @@ This is my Capstone project for my Udacity Data Scientist course.
 
 My Blog Post on Blogger.com can be found here: https://nameisunique.blogspot.com/2020/07/should-i-stay-or-should-i-go.html
 
-Project Overview
+# Project Overview
 
 Sparkify is Udacity's (on paper...so far) music streaming service that produces data similar to Spotify or Pandora. Users play and/or rate their favorite songs through such services on a daily basis. The business model employed is a free and pay tiered system where free/unpaid users have generally limited access and often see advertisements to offset the royalty fees paid to music artists. Users have the ability to upgrade their service (become a paying customer), or downgrade their service (from paying to non-paying); both tiers have the ability to cancel their service, and that lost of a customer would be considered "customer churn".
 
@@ -19,7 +19,7 @@ All user interaction with Sparkify revolves around these activities:
 
 Each of these activities generates an entry into the user logs. Naturally, log analytics are a key factor for the Sparkify marketing team and all the executive staff. The team at Udacity has provided a test dataset for our analysis, although little documentation has been provided on the dataset.
 
-Business Understanding
+# Business Understanding
 
 Realistically, there is one main question we want to answer: Will either a paying or free user leave? That is called churn and apps like Sparkify live and die by the churn rate.
 
@@ -32,4 +32,4 @@ This project digs deep into Big Data, Pyspark, Python combined with SQL, along w
 
 The goal of this project centers around one main question: Who will churn? Sparkify wants to keep both it's paid and free customers, and those that leave are considered to have "churned". Machine Language models come to the rescue to help identify users most likely to churn.
 
-This project will use data provided by Udacity as the basis for the examination per the rubric. 
+This project will use data provided by Udacity as the basis for the examination per the rubric. I've used Python 3.7 and Pyspark 2.4.3. 
